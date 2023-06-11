@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/architg20/Portfolio/static/css/main.48052614.css",
+    "main.js": "/architg20/Portfolio/static/js/main.933132b2.js",
+    "index.html": "/architg20/Portfolio/index.html",
+    "main.48052614.css.map": "/architg20/Portfolio/static/css/main.48052614.css.map",
+    "main.933132b2.js.map": "/architg20/Portfolio/static/js/main.933132b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48052614.css",
+    "static/js/main.933132b2.js"
+  ]
+}
